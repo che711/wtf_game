@@ -2,6 +2,7 @@ import pygame
 import del_game_function as dgf
 from del_game_function import Settings, Ship
 
+# python3 del_game.py
 
 def runGame():
 	pygame.init()
